@@ -1,3 +1,5 @@
+-- Author: Arieleg
+
 require 'mp'
 require 'mp.msg'
 
